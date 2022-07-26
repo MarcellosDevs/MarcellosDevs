@@ -1,5 +1,15 @@
 ## Bem-vindo(a) ao perfil do 
 Marcelo Freitas Moraes 😁
+Olá eu sou Marcelo Moraes!
+Desenvolvedor Front-end
+
+Hobbies
+
+Ver Series
+Ver Animes
+Ler Manga
+Escutar Músicas
+Criação de projetos para testes
 
  <div>
    <a href="https://github.com/
