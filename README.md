@@ -40,7 +40,7 @@ MarcelloFreitasMoraes">
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Minhas Redes Sociais abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC1wpKae6OLhTDGC2D2V7xUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
