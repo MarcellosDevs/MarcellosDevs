@@ -5,11 +5,11 @@ Desenvolvedor Front-end
 
 Hobbies
 
-Ver Series
-Ver Animes
-Ler Manga
-Escutar Músicas
-Criação de projetos para testes
+<li>Ver Series</li>
+<li>Ver Animes</li>
+<li>Ler Manga</li>
+<li>Escutar Músicas</li>
+<li>Criação de projetos para testes</li>
 
  <div>
    <a href="https://github.com/
