@@ -26,19 +26,6 @@ MarcelloFreitasMoraes">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
           
-          
-          
-           
- 
-          
-          
-          
-                 
-          
-          
-          
- 
-          
 </div>
  
  <br>
